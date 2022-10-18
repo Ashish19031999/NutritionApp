@@ -1,4 +1,4 @@
-package com.example.demo.exception;
+package com.group_4_trial_1.Nutri_App_user_Trial.exception;
 
 public class NutritionPlanNotFoundException extends Exception{
 
